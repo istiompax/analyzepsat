@@ -1,0 +1,24 @@
+* using log directory 'C:/Ben/SOFTWARE/RDRR/makeANALZEPSAT/VERSIONS/3.0/R2.10/analyzepsat.Rcheck'
+* using R version 2.10.1 (2009-12-14)
+* using session charset: ISO8859-1
+* using options '--no-codoc --no-examples'
+* checking for file 'analyzepsat/DESCRIPTION' ... OK
+* checking extension type ... Package
+* this is package 'analyzepsat' version '3.0'
+* checking package dependencies ... OK
+* checking if this is a source package ... OK
+* checking for executable files ... OK
+* checking whether package 'analyzepsat' can be installed ... WARNING
+Found the following significant warnings:
+  Warning: package 'ukfsst' was built under R version 2.6.2 and help will not work correctly
+  Warning: package 'kftrack' was built under R version c(2, 4, 0) and help will not work correctly
+See 'C:/Ben/SOFTWARE/RDRR/makeANALZEPSAT/VERSIONS/3.0/R2.10/analyzepsat.Rcheck/00install.out' for details.
+* checking package directory ... OK
+* checking for portable file names ... OK
+* checking DESCRIPTION meta-information ... OK
+* checking top-level files ... OK
+* checking index information ... OK
+* checking package subdirectories ... OK
+* checking R files for non-ASCII characters ... OK
+* checking R files for syntax errors ... OK
+* checking whether the package can be loaded ...
