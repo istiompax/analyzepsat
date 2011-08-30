@@ -1,0 +1,16 @@
+Package: analyzepsat
+Type: Package
+Title: Microwave Telemtry PSAT analysis
+Version: 3.0
+Date: 2011-8-25
+Author: Benjamin Galuardi and Chi Hin Lam
+Maintainer: <galuardi@eco.umass.edu>
+Depends: ukfsst, maptools, ellipse, gdata, ncdf, matlab, adehabitat,
+        fields, GenKern
+Description: Functions for reading Microwave Telemetry PSAT data into
+        R, analyzing it via state space methods, and producing useful
+        output.
+License: GPL version 2
+LazyLoad: yes
+Packaged: 2011-08-29 20:39:32 UTC; Ben
+Built: R 2.10.1; ; 2011-08-30 17:36:13 UTC; windows
